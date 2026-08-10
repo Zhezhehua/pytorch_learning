@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+datasets/
+
+# Model weights
+*.pth
+*.pt
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
