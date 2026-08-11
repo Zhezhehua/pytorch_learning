@@ -20,3 +20,5 @@ print(y.shape)
 
 print(linear.weight)
 print(linear.bias)
+
+'''y=xWT+b,即w为2x3矩阵'''
