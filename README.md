@@ -20,12 +20,6 @@ A personal project for learning PyTorch and deep learning.
 - [x] Optimizer: using `torch.optim.SGD` and parameter updates
 - [x] GPU Matrix Multiplication: basic GPU tensor computation
 
-### 01 Tensor Basics
-
-- Tensor creation
-- Tensor operation
-- GPU acceleration
-
 ## Project Structure
 
 ```text
@@ -39,6 +33,7 @@ pytorch_learning/
 │   └── 06_optimizer.py
 ├── gpu_matrix_multiplication.py
 └── README.md
+```
 
 ## Notes
 
